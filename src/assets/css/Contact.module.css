@@ -1,0 +1,10 @@
+form{
+    background-color: red;
+    width: 50%; height: 400px; margin: auto; text-align: left;
+}
+
+input, textarea, select, span{
+    display: block; 
+    margin-top: 20px;
+}
+

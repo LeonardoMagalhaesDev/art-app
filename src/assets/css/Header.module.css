@@ -1,0 +1,33 @@
+.container{
+    display: grid;
+    grid-template-columns: 72px 80px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 26px;
+}
+.whidth__img{
+    width: 65px; height: 56px;
+}
+
+.h1__style{
+    font-weight: 500;
+}
+
+hr{
+    width: 100%; border-bottom: 1px solid gray;
+}
+
+.main__bg{
+    width: 88%; height: 400px;
+    background: url(../../../public/g_1.jpg) center/ cover no-repeat;
+    margin: auto;
+}
+
+.ul__style{
+    display: grid;
+    grid-template-columns: repeat(4, 80px);
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    list-style: none;
+}
